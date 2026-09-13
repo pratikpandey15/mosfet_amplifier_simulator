@@ -10,7 +10,7 @@ with DC biasing, Q-point analysis, voltage gain computation, and I-V characteris
 <h2>📁 Project Structure</h2>
 
 <pre>
-NextStep/
+NewStep/
 ├── main.py                        # Entry point
 ├── requirements.txt               # Dependencies
 ├── simulations/
