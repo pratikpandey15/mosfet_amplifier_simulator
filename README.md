@@ -23,8 +23,8 @@ mosfet_amplifier_simulator/
 ├── theory/
 │   ├── mosfet_basics.md           # MOSFET fundamentals
 │   └── amplifier_design.md        # Design equations
-├── graphs/                        # Auto-generated graphs
-└── report/                        # Final report
+├── graphs/ Graph_preview.pdf                           # Auto-generated graphs
+└── report/ mosfet_amplifier_simulation_report. pdf     # Final report
 </pre>
 
 <hr>
